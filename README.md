@@ -26,3 +26,8 @@ character the user types or modifies because that would waste resources. As soon
 user pauses or stops typing, it is preferable to call API. Using a Class, which utilizes a
 timer to delay the search request until it stops receiving text updates after 0.3 seconds
 or any duration you specify, we have accomplished this.
+
+## Demo Video:
+
+https://user-images.githubusercontent.com/28133782/221783378-cd7434f4-5844-4956-8364-575e82f551c4.mp4
+
